@@ -3,3 +3,16 @@
 //   "editUrlLabel": "AEM Editor",
 //   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 // }
+{
+  "project": "Rinvoq",
+  "plugins": [
+    {
+      "id": "library",
+      "title": "Sidekick Library",
+      "environments": [
+        "edit"
+      ],
+      "url": "/tools/sidekick/library.html"
+    }
+  ]
+}
